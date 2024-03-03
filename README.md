@@ -1,6 +1,6 @@
 # Search Algorithms
 
-This assignment is borrowed from Project 1 of CS188 Introduction to Artificial Intelligence by Igor Mordatch \& Peyrin Kao, Fall 2022, UC Berkeley: https://inst.eecs.berkeley.edu/ cs188/ fa22/projects/proj1/. You can follow the steps that you need to complete in this assignment through either this document (recommended) or through the webpage provided by Mordatch and Kao.
+This assignment is borrowed from Project 1 of CS188 Introduction to Artificial Intelligence by Igor Mordatch \& Peyrin Kao, Fall 2022, UC Berkeley: https://inst.eecs.berkeley.edu/cs188/fa22/projects/proj1/. You can follow the steps that you need to complete in this assignment through either this document (recommended) or through the webpage provided by Mordatch and Kao.
 
 # Introduction
 
